@@ -29,4 +29,6 @@ scaler.pkl: Scaler for feature normalization.
 
 #How to run
 
-Streamlit run main.py
+1.run the api.py (or in cmd python api.py)
+
+2.in cmd : Streamlit run main.py
